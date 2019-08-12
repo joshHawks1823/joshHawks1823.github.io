@@ -1,0 +1,10 @@
+.jumbotron {
+  background: url("https://video-images.vice.com/articles/597fa3dcb1f73c691f5e88b7/lede/1501537457860-the-photo-full-version-is-76x-higher-resolution.jpeg?crop=0.9064xw:0.8671xh;0.0327xw,0xh&resize=700:*");
+  background-position: center/top;
+  background-size: cover;
+  height: 80vh;
+  background-repeat: no-repeat;
+  text-align: center;
+  color: #fff;
+  text-shadow: 4px 4px 11px rgba(150, 150, 150, 1);
+}
